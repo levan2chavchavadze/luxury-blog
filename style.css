@@ -807,3 +807,218 @@ hr {
 
 
         }
+
+
+        /* header css */
+        .containerGN{
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 0 84px;
+        }
+        
+        .header-flexGN{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 37px;
+            padding-bottom: 47px;
+        }
+        
+        .nav-link-GN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 21px;
+            color: #262626;
+            text-decoration: none;
+        }
+        
+        .nav-link-GN:hover{
+            color: #4CE0D7;
+        }
+        
+        .navigationGN{
+            display: flex;
+            gap: 60px;
+        }
+        
+        .contuctUSGN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 21px;
+            color: #262626;
+            text-decoration: none;
+            background: #4CE0D7;
+            border-radius: 40px;
+            padding: 9px 32px;
+        }
+        
+        /*პირველი სექცია*/
+        
+        .First-section-TotalGN{
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 0 84px;
+            margin-bottom: 58px;
+        }
+        
+        .first-sectionGN{
+            background-image: url(images/background\ image.png);
+            height: 559px;
+            background-repeat: no-repeat;
+            background-size: cover;
+            border-radius: 20px;
+        }
+        
+        .first-section-contentGN{
+            background-color: transparent;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items:flex-start;
+            height: 100%;
+            gap: 22px;
+        }
+        
+        .P1-GN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 18px;
+            letter-spacing: 0.23em;
+            color: #FFFFFF;
+        }
+        
+        .main-headingGN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 46px;
+            line-height: 69px;
+            color: #FFFFFF;
+        }
+        
+        .main-headingGN span{
+            background: -webkit-linear-gradient(left,#4CE0D7 43.06%, #8BA9F4 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 700;
+        }
+        
+        .P2-GN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 30px;
+            color: #FFFFFF;
+        }
+        
+        .P3-GN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 30px;
+            color: #FFFFFF;
+        }
+        
+        .first-sectionGN{
+            max-width: 1272px;
+            margin: 0 auto;
+            padding: 0 84px;
+        }
+        
+        
+        /*პირველი სექციის დასასრული*/
+        
+        /*მეორე სექცია ტოპიკები*/
+        
+        .second-headingGN{
+            margin-bottom: 48px;
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 48px;
+            color: #262626;
+        }
+        
+        .Topics-cardGN{
+            width: 204px;
+            height: 291px;
+            background-color: #FFFFFF;
+            border-radius: 20px;
+            box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            position: relative;
+        }
+        
+        .Topics-cardGN-Content{
+            background-color: transparent;
+            position: absolute;
+            top: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 19px;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+        }
+        
+        .ButtonGN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 18px;
+            text-align: center;
+            color: #262626;
+            text-decoration: none;
+            background: #4CE0D7;
+            border-radius: 40px;
+            padding: 10px;
+        }
+        
+        .ButtonGN:hover,
+        .contuctUSGN:hover{
+            background: #8BA9F4;
+            color: #FFFFFF;
+        }
+        
+        .Topics-H-GN{
+            font-family: 'Poppins';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 30px;
+            text-align: center;
+            color: #262626;
+        }
+        
+        .Topics-galleryGN{
+            display: flex;
+            flex-direction: wrap;
+            gap: 10px;
+        }
+        
+        .TopicsGN{
+            max-width: 1440px;
+            margin: 0 auto;
+            padding: 0 84px;
+            margin-bottom: 87.5px;
+        }
+         .header-logo {
+            width: 226px;
+            height: 49px;
+         }        
+
+         .dress {
+            width: 88px;
+            height: 88px;
+         }
