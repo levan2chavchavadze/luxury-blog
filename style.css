@@ -1022,3 +1022,14 @@ hr {
             width: 88px;
             height: 88px;
          }
+
+
+         
+         .levanchavchavadze {
+          margin:  auto;
+          font-size: 50px;
+          font-family: Arial, Helvetica, sans-serif;
+          text-align: center;
+          background-color: #000000;
+          color: #FFFFFF;
+         }
